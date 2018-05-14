@@ -27,8 +27,20 @@
   ![][open_png]
   
 ## 引用 demo
+> 这是一个引文
+出自<<出处>>
+
+多重引用 
+>>>这是多重引文
 
 ## 代码块 demo
+- 行内代码
+这个代码中用来声明变量是`var a =10`,打印变量内容`console.log`函数的调用。  
+- 样式代码
+```javascript
+var a =10;
+console.log(a);
+```
 
 <!--- 下面是本文档中引用到的链接 -->
 [百度]:http://www.baidu.com
