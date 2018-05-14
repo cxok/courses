@@ -19,11 +19,11 @@
 - 外部图片 demo
   ![baidu](https://www.baidu.com/img/bd_logo1.png "百度网站")
 - 仓库内的图片 demo
-  ![](images/google.png)
+  ![](images/googlelogo.png)
 ### 图片引用式链接
-- 外部图片 demo
-  ![baidu][baidu_logo]  
-- 仓库内的图片 demo  
+- 外部图片 demo  
+  ![baidu][baidu_logo]
+- 仓库内的图片 demo    
   ![][google_logo]
   
 ## 引用 demo
