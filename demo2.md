@@ -19,7 +19,7 @@
 - 外部图片 demo
   ![baidu](https://www.baidu.com/img/bd_logo1.png "百度网站")
 - 仓库内的图片 demo
-- ![](images/open.png)
+  ![](images/open.png)
 ### 图片引用式链接
 - 外部图片 demo
   ![baidu][baidu_logo]
