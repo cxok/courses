@@ -31,6 +31,7 @@ Markdown具有一系列衍生版本，用于扩展Markdown的功能（如表格�
  这   |   是    |   表头 
  -------- |:------: |--------:
  内容一  | 内容二  |  内容三 
+ 内容1|内容2|内容3
 
 ## GFM demo
 Github Flvored Markdown,GFM  
