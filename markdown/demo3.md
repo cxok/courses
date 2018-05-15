@@ -27,10 +27,10 @@ Markdown具有一系列衍生版本，用于扩展Markdown的功能（如表格�
 |**row 2**| row2    | ![][google_logo] |
 | image   | demo    |  [百度] |
 
-精简表格
- 这   |   是    |   表头
+精简表格  
+ 这   |   是    |   表头 
  -------- |:------: |--------:
- 内容一  | 内容二  |  内容三
+ 内容一  | 内容二  |  内容三 
 
 ## GFM demo
 Github Flvored Markdown,GFM  
