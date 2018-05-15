@@ -33,7 +33,7 @@ Markdown具有一系列衍生版本，用于扩展Markdown的功能（如表格�
  内容一  | 内容二  |  内容三
 
 ## GFM demo
-Github Flvored Markdown,GFM
+Github Flvored Markdown,GFM  
 task list
 - [x] item1
 - [ ] item2
