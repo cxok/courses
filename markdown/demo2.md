@@ -26,8 +26,10 @@
 - 外部图片 demo  
   ![baidu][baidu_logo]
 - 仓库内的图片 demo    
-  ![][google_logo]
-  
+  ![][google_logo]
+- 混合链接
+  [![][baidu_logo]][baidu]
+   
 ## 引用 demo
 > 这是一个引文
 出自<<出处>>
